@@ -1,6 +1,7 @@
 # Python Terminal Emulator
 
-A fully functional command terminal built in Python that mimics a real system terminal.
+## A fully ai based functional command terminal built in Python that mimics a real system terminal.
+## download the exe files from dist/main.exe
 
 ## 🚀 Features
 - File & directory operations: `ls`, `cd`, `pwd`, `mkdir`, `rm`
