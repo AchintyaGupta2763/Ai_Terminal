@@ -11,11 +11,4 @@
 - Command history (navigate with ↑/↓ keys)
 - Clean box-shaped UI with PyTermTk
 
-## ✨ Optional
-- AI-driven commands (stub provided in `ai/ai_agent.py`)
 
-## 📦 Installation
-```bash
-git clone https://github.com/your-repo/python-terminal.git
-cd python-terminal
-pip install -r requirements.txt
