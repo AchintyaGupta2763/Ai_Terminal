@@ -9,6 +9,6 @@
 - Fallback to real system commands (`echo`, `date`, etc.)
 - Error handling for invalid commands
 - Command history (navigate with ↑/↓ keys)
-- Clean box-shaped UI with PyTermTk
+- Clean box-shaped UI with PyQt5
 
 
